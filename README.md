@@ -8,12 +8,9 @@ This project turns a 4x4 matrix keypad into a small playable keyboard. It has th
 
 ## Circuit diagram
 
-> **TODO:** add the wiring diagram here.
-> Drop an image into the `docs/images/` folder (e.g. `circuit.png`) and update the
-> link below. A Fritzing / Tinkercad export works great.
+<img width="994" height="779" alt="image" src="https://github.com/user-attachments/assets/eea5a352-d20e-4640-b24c-99ef5232b9a7" />
 
-![Circuit diagram](docs/images/circuit.png)
-
+"[Circuit diagram](https://github.com/user-attachments/files/33412738/Shiny.Amberis-Curcan.pdf)
 ---
 
 ## About project
@@ -192,9 +189,10 @@ and Arduino development.
 
 ## Videos
 
-> **TODO:** add demo videos here.
-> Record a short clip of the synthesizer in action (keyboard / potentiometer / mix
-> modes) and drag the file into the repo, then link it below.
 
-- Demo video 1 — `videos/demo-1.mp4`
-- Demo video 2 — `videos/demo-2.mp4`
+- Demo video 1 — 
+
+- Demo video 2 —
+
+https://github.com/user-attachments/assets/dae4a3d9-f57d-4694-9a06-74e83407adac
+
