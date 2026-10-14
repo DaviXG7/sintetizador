@@ -10,7 +10,7 @@ This project turns a 4x4 matrix keypad into a small playable keyboard. It has th
 
 <img width="994" height="779" alt="image" src="https://github.com/user-attachments/assets/eea5a352-d20e-4640-b24c-99ef5232b9a7" />
 
-"[Circuit diagram](https://github.com/user-attachments/files/33412738/Shiny.Amberis-Curcan.pdf)
+![Circuit diagram](https://github.com/user-attachments/files/33412738/Shiny.Amberis-Curcan.pdf)
 ---
 
 ## About project
@@ -191,6 +191,8 @@ and Arduino development.
 
 
 - Demo video 1 — 
+
+https://youtube.com/shorts/qpnLH1EZp3U?si=4ItmB6pUPz2T5x15
 
 - Demo video 2 —
 
